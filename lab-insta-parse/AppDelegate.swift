@@ -5,16 +5,24 @@
 //  Created by Charlie Hieger on 10/29/22.
 //
 
+//user              password
+//Yezi              123456
+//Qiqiang Gao       dasao197596
+
 import UIKit
 import ParseSwift
 import Foundation
 
 // TODO: Pt 1 - Import Parse Swift
 public func initializeParse(customObjectId: Bool = false) {
-    ParseSwift.initialize(applicationId: "DenmTNkWijMDhhhhenGCff0vCjKOmcTtk0fCDgR8",
-                          clientKey: "5jiWTqI8O7etlXbqMEGQs9PsTT7NI8omaGyHB9jg",
-                          masterKey: "OR2wZjHSjsadfFbMlqWS0dIs8Sy7iYH7gV7IVtLl",
-                          serverURL: URL(string: "https://parseapi.back4app.com")!,
+    ParseSwift.initialize(applicationId:
+                            "DenmTNkWijMDhhhhenGCff0vCjKOmcTtk0fCDgR8",
+                          clientKey:
+                            "5jiWTqI8O7etlXbqMEGQs9PsTT7NI8omaGyHB9jg",
+                          masterKey:
+                            "OR2wZjHSjsadfFbMlqWS0dIs8Sy7iYH7gV7IVtLl",
+                          serverURL:
+                            URL(string: "https://parseapi.back4app.com")!,
                           allowingCustomObjectIds: customObjectId,
                           usingEqualQueryConstraint: false,
                           usingDataProtectionKeychain: false)

@@ -382,6 +382,7 @@
 				DEVELOPMENT_TEAM = MA6H73S726;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "lab-insta-parse/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = BeReal;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -410,6 +411,7 @@
 				DEVELOPMENT_TEAM = MA6H73S726;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "lab-insta-parse/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = BeReal;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
