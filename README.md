@@ -6,6 +6,13 @@ Submitted by: **Xinran Zhao**
 
 Time spent: **10** hours spent in total
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+![1_AdobeExpress (2)](https://user-images.githubusercontent.com/114776583/228113029-00f22ee3-be4a-4919-9433-0342d25f7deb.gif)
+
+
 ## Required Features
 
 The following **required** functionality is completed:
@@ -27,12 +34,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] User stays logged in even when app is deleted and download again
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-![1_AdobeExpress (2)](https://user-images.githubusercontent.com/114776583/228113029-00f22ee3-be4a-4919-9433-0342d25f7deb.gif)
 
 
 ## Notes
